@@ -189,10 +189,3 @@ Input type errors → Ensure you enter numeric values only
 ⭐ If you find this project useful, give it a star and share it with others!
 Happy Computing with NumPy! 🧮💻
 
-yaml
-Copy code
-
----
-
-✅ You can now copy everything above directly into your README.md file — it’s fully formatted for GitHub.  
-Would you like me to add a small *"Future Enhancements"* section (like GUI calculator or matrix
